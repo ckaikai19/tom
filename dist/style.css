@@ -1,0 +1,19 @@
+.container{
+    height: 95vh;
+    display: flex;
+}
+
+
+.card{
+    /* border: 1px solid black; */
+    height: 250px; 
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.73);
+    margin: 20px;
+}
+
+.inner{
+    background-color: aqua;
+    margin-top: 0px;
+    width: 150px;
+}
+
